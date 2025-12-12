@@ -1,1 +1,1 @@
-"# Background_Subtraction" 
+This repo includes background-subtraction techniques such as frame differencing, running average, and MOG/MOG2. These methods allow reliable motion detection by separating moving objects from the background. Frame differencing is fast and lightweight, running average smoothly adapts to gradual changes, and MOG/MOG2 handles complex environments with shadows or dynamic backgrounds.
